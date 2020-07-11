@@ -16,10 +16,6 @@ const useStyles = theme=>({
         height: 56,
         width: 56
     },
-    iconavatar: {
-        height: 32,
-        width: 32
-    },
     group: {
         marginTop: theme.spacing(2),
         display: 'flex',
@@ -48,7 +44,7 @@ class CardHome extends Component {
                             </Grid>
                             <Grid item>
                                 <Avatar className={classes.avatar} style={{ backgroundColor:`${this.props.color}`}}>
-                                    <FaceIcon className={classes.iconavatar} />
+                                    {this.props.icon}
                                 </Avatar>
                             </Grid>
                         </Grid>

@@ -26,7 +26,7 @@ class SchedulerInfo extends Component {
             <ContainerForm>
                 <Grid container justify='center' spacing={3} className={classes.root}>
                     {cardDetail.map((el)=>(
-                        <CardHome key={el.name} background={el.background} color={el.color} name={el.name} number={el.number}/>
+                        <CardHome key={el.name} background={el.background} color={el.color} name={el.name} number={el.number} icon={el.icon}/>
                     ))}
                 </Grid>
                 <Scheduler

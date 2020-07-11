@@ -1,0 +1,70 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "userName": "tmtuanyd",
+      "pw": "tuan12345",
+      "authority": "admin",
+      "fullname": "Tran Manh Tuan",
+      "institute": "",
+      "firstname": "Tuan"
+    }
+  ],
+  "teacher": [
+    {
+      "id": 2,
+      "userName": "nqtrung",
+      "pw": "trung12345",
+      "authority": "teacher(dean)",
+      "fullname": "Nguyen Quang Trung",
+      "institute": "information technology",
+      "firstname": "Trung"
+    },
+    {
+      "id": 3,
+      "userName": "nvbinh",
+      "pw": "binh12345",
+      "authority": "teacher(dean)",
+      "fullname": "Nguyen Van Binh",
+      "institute": "automatic control",
+      "firstname": "Binh"
+    },
+    {
+      "id": 4,
+      "userName": "hieu66.la",
+      "pw": "hieu12345",
+      "authority": "teacher(dean)",
+      "fullname": "La Trung Hieu",
+      "institute": "foreign language",
+      "firstname": "Hieu"
+    },
+    {
+      "id": 5,
+      "userName": "theanh.dao",
+      "pw": "anh12345",
+      "authority": "teacher(dean)",
+      "fullname": "Dao The Anh",
+      "institute": "microbiology and biotechnology",
+      "firstname": "Anh"
+    },
+    {
+      "id": 6,
+      "userName": "anh09.le",
+      "pw": "anh12345",
+      "authority": "teacher(dean)",
+      "fullname": "Le Viet Anh",
+      "institute": "mechanical engineering",
+      "firstname": "Anh"
+    },
+    {
+      "id": 7,
+      "userName": "ng.hue",
+      "pw": "hue12345",
+      "authority": "teacher(dean)",
+      "fullname": "Nguyen Thi Hue",
+      "institute": "chemical engineering",
+      "firstname": "Hue"
+    }
+  ]
+
+}
